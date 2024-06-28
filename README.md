@@ -1,4 +1,4 @@
-![Banner](https://your-image-url.com/banner.png)
+![Logo](https://your-image-url.com/logo.png)
 
 # 👋 Hi, I'm Akash Dhengale
 
@@ -40,6 +40,8 @@ Lucknow, UP | 2023-2025
 ---
 
 ## 🛠️ Technical Skills
+
+![Skills](https://your-image-url.com/skills-logo.png)
 
 - **Cloud**: AWS (EC2, S3, RDS, IAM)
 - **Web Servers**: Nginx, Apache
